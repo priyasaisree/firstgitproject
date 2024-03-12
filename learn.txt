@@ -1,2 +1,5 @@
 hai 
 i am learning to git
+a=7
+b=9
+c=9
